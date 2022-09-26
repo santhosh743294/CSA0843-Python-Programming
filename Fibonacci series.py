@@ -1,16 +1,16 @@
-terms = int(input("How many terms? "))
-n1, n2 = 0, 1
-count = 0
-if nterms <= 0:
-   print("enter a positive integer")
-elif nterms == 1:
-   print("Fibonacci series upto", nterms, ":")
-   print(n1)
+nterms=int(input("how manyterms:"))
+n1,n2=0,1
+count=0
+if nterms<=0:
+    print("invalid input")
+elif nterms==1:
+    print("fibonacci sequenece upto",nterms,":")
+    print(n1)
 else:
-   print("Fibonacci sequence:")
-   while count < nterms:
-       print(n1)
-       nth = n1 + n2
-       n1 = n2
-       n2 = nth
-       count += 1
+    print("fibonaccisequence:")
+    while count<nterms:
+        print(n1)
+        nth=n1+n2
+        n1=n2
+        n2=nth
+        count+=1
