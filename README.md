@@ -41,4 +41,6 @@
 39. Counting and sum,diff of -ve and +ve number
 40. Mirror 
 41. Triangular array
-42. String match
+42. String matches
+43. First n perfect numbers & n factors
+44. Pattern in decimal
