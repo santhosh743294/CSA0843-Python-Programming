@@ -44,3 +44,14 @@
 42. String matches
 43. First n perfect numbers & n factors
 44. Pattern in decimal
+45. Decimal pattern
+46. Telephone
+47. Simple interest according to age
+48. Sum square
+49. Maximum no of words in a string
+50. Palindrome(T or F)
+51. m to n key skipping
+52. Leap year
+53. Number pattern
+54. Matrix addition
+55. Combinations
