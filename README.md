@@ -56,4 +56,9 @@
 54. Matrix addition
 55. Combinations
 56. Sorting words in alphabetical order
-57. 
+57. Reverse a word using loop
+58. Total number of users in college
+59. Decimal pattern table
+60. Cube & Square of decimals
+61. Number of vowels
+62. Smaller than current number
