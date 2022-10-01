@@ -62,3 +62,13 @@
 60. Cube & Square of decimals
 61. Number of vowels
 62. Smaller than current number
+65. Composite numbers
+66. Employee salary
+67. Last word
+68. LCH & GCD
+69. Frequency
+70. Arithmetic (x,n)
+71. Robert
+72. Count Prime & Composite numbers
+73. Vote eligibility
+74. Pattern
